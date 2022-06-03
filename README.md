@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-
+![Cover](https://github.com/Nicolas-Pustovalov/Nicolas-Pustovalov/img/DSC_12.jpg)
 <!--
 **Nicolas-Pustovalov/Nicolas-Pustovalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
